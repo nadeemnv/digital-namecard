@@ -33,8 +33,8 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 40%;
+	width: 40%;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #191a18;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
